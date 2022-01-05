@@ -13,6 +13,18 @@
     "url": "https://github.com/MisterKidX/UnityPackager.git",
     "type": "git"
   },
+"samples": [
+    {
+      "displayName": "Custom Sample 0",
+      "description": "Description 0.",
+      "path": "Samples~/CustomSample0"
+    },
+    {
+      "displayName": "Custom Sample 1",
+      "description": "Description 1.",
+      "path": "Samples~/CustomSample1"
+    }
+],
     "author": {
       "name": "Dor Ben Dor",
       "email": "contact@dorbendor.com",
