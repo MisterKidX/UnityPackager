@@ -2,13 +2,17 @@
     "name": "com.dorbendor.tools.unitypackager",
     "version": "0.1.0",
     "displayName": "Packager Template",
-    "description": "This provides the base package layour needed for unity's Package Manager",
+    "description": "This provides the base package layout needed for unity's Package Manager",
     "unity": "2019.3",
    "keywords": [
       "Package Manager",
       "Manifest",
       "Package"
     ],
+      "repository": {
+    "url": "https://github.com/MisterKidX/UnityPackager.git",
+    "type": "git"
+  },
     "author": {
       "name": "Dor Ben Dor",
       "email": "contact@dorbendor.com",
