@@ -9,6 +9,10 @@
       "Manifest",
       "Package"
     ],
+      "repository": {
+    "url": "https://github.com/MisterKidX/UnityPackager.git",
+    "type": "git"
+  },
     "author": {
       "name": "Dor Ben Dor",
       "email": "contact@dorbendor.com",
