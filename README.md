@@ -1,6 +1,8 @@
 # UnityPackager
 Packaging template for Unity.
 
+https://docs.unity3d.com/2019.3/Documentation/Manual/CustomPackages.html
+
 ## Installation Guide
 
 * Go to the Package Manager
