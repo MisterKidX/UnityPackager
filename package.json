@@ -13,6 +13,7 @@
     "url": "https://github.com/MisterKidX/UnityPackager.git",
     "type": "git"
   },
+"license" : "MIT",
 "samples": [
     {
       "displayName": "Custom Sample 0",
