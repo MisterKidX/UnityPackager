@@ -15,7 +15,7 @@ https://docs.unity3d.com/2019.3/Documentation/Manual/CustomPackages.html
 
 * Go over the package.json and change all relevant data
 * You can add a "dependencies" entry and specify other packages
-* When changing the name of the package, make sure to go the the .asmdef files and change their names respectively
+* When changing the name of the package, make sure to go the the .asmdef files and Documnetation and change their names respectively
 * Now you can upload your own git repo and use the layout there
 * Follow the Installation guide to install your package in a unity project
 
