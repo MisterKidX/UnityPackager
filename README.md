@@ -1,7 +1,9 @@
 # UnityPackager
 Packaging template for Unity.
 
-https://docs.unity3d.com/2019.3/Documentation/Manual/CustomPackages.html
+Useful links:
+[Unity Manual Custom Packages](https://docs.unity3d.com/Manual/CustomPackages.html)
+[Unity Manual Packages](https://docs.unity3d.com/Manual/Packages.html)
 
 this is a template repo, intended for you to copy and work on your own repo. 
 
