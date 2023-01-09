@@ -19,6 +19,11 @@ https://docs.unity3d.com/2019.3/Documentation/Manual/CustomPackages.html
 * Now you can upload your own git repo and use the layout there
 * Follow the Installation guide to install your package in a unity project
 
+## Package Manifest
+
+### Git Dependencies
+you can use the "depedencies" key to add your own git dependencies. Check out Unity's documentation at https://docs.unity3d.com/Manual/upm-git.html
+
 ## General
 
 * If you want to nest packages use dependencies or [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
