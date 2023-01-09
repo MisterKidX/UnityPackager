@@ -3,7 +3,7 @@ Packaging template for Unity.
 
 https://docs.unity3d.com/2019.3/Documentation/Manual/CustomPackages.html
 
-## Installation Guide
+## Installating the Package in Unity
 
 * Go to the Package Manager
 * Click the + button at the top left and choose Add Package from Git URL
