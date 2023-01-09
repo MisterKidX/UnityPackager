@@ -1,11 +1,10 @@
 # UnityPackager
-Packaging template for Unity.
+Packaging template for Unity. this is a template repo, intended for you to copy and work on your own repo. 
 
 Useful links:
-[Unity Manual Custom Packages](https://docs.unity3d.com/Manual/CustomPackages.html)
-[Unity Manual Packages](https://docs.unity3d.com/Manual/Packages.html)
+* [Unity Manual Custom Packages](https://docs.unity3d.com/Manual/CustomPackages.html)
+* [Unity Manual Packages](https://docs.unity3d.com/Manual/Packages.html)
 
-this is a template repo, intended for you to copy and work on your own repo. 
 
 ## Quickstart
 
