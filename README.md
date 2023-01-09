@@ -3,21 +3,28 @@ Packaging template for Unity.
 
 https://docs.unity3d.com/2019.3/Documentation/Manual/CustomPackages.html
 
-## Installating the Package in Unity
+this is a template repo, intended for you to copy and work on your own repo. 
+
+## Quickstart
+
+### Creating your own package
+
+* to get started create a repo from this [template](https://github.com/MisterKidX/UnityPackager/generate)
+* after the repo creation, clone it to your computer
+* to *cleanly work* on your new package, you will need to open it in a unity project; just make sure you don't push any garbage that doesn't belong to the original package structure
+
+### Installating your Package in a new Unity Project
 
 * Go to the Package Manager
 * Click the + button at the top left and choose Add Package from Git URL
-* Enter this Git's HTTPS (https://github.com/MisterKidX/UnityPackager.git)
-* The package will be listed under the packages folder
+* Enter your package repo's Git HTTPS (example: https://github.com/<username>/<reponame>.git)
+* The package will be listed under the packages folder and will act like all packages
 * Enjoy! 
 
-## Use Guide
-
+### the upm package manifest
 * Go over the package.json and change all relevant data
-* You can add a "dependencies" entry and specify other packages
+* You can add a "dependencies" entry and specify other packages that this package depends on
 * When changing the name of the package, make sure to go the the .asmdef files and Documnetation and change their names respectively
-* Now you can upload your own git repo and use the layout there
-* Follow the Installation guide to install your package in a unity project
 
 ## Package Manifest
 
